@@ -1,4 +1,4 @@
--- Depois de ter instalado o mysql worbench
+-- Depois de ter instalado o mysql workbench
 -- Alguns comandos basico de cosultas
 -- Caso perca a senha do mysql este tutorial pode ajudar << (https://www.youtube.com/watch?v=7tLlrPKE5sI)
 
