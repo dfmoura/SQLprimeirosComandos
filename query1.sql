@@ -1,5 +1,5 @@
 -- Depois de ter instalado o mysql workbench
--- Alguns comandos basico de cosultas
+-- Alguns comandos basico de consultas
 -- Caso perca a senha do mysql este tutorial pode ajudar << (https://www.youtube.com/watch?v=7tLlrPKE5sI)
 
 -- Exemplo 1. Selecionando todas as linhas e colunas da:
